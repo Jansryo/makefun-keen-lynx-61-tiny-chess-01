@@ -43,5 +43,4 @@ positions, same best move and node count at 50k nodes.
 
 ## Size
 
-`main.py`: 4,021 bytes (limit 4,096). Whole repository: under the
-8,192-byte snapshot cap; no file over 4,096 bytes.
+`main.py`: 4,021 bytes (limit 4,096). Repo total under 8,192 bytes.
